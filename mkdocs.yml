@@ -1,0 +1,94 @@
+site_name: English Pronunciation for Spanish Speakers
+site_description: A structured, SSBE-focused pronunciation guide for native Spanish speakers.
+copyright: "© 2026 Juan Paradinas. All rights reserved. License TBD."
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+# PLAN.md (build-internal) and schwa.md (redirect stub) are intentionally
+# excluded from the nav. They remain in the folder.
+nav:
+  - Home: README.md
+  - Foundations:
+      - Phoneme inventory: phoneme-inventory.md
+      - Priority phonemes: priority-phonemes.md
+  - Vowels:
+      - Schwa /ə/: vowel-schwa.md
+      - Long schwa /ɜː/: vowel-long-schwa.md
+      - Short i /ɪ/: vowel-short-i.md
+      - Long i /iː/: vowel-long-i.md
+      - Front a /æ/: vowel-ae.md
+      - Hat a /ʌ/: vowel-short-a-hat.md
+      - Back a /ɑː/: vowel-long-a-back.md
+      - Short o /ɒ/: vowel-short-o.md
+      - Aw /ɔː/: vowel-aw.md
+      - Short u /ʊ/: vowel-short-u.md
+      - Long u /uː/: vowel-long-u.md
+      - Short e /e/: vowel-e.md
+      - Diphthongs: diphthongs.md
+  - Consonants:
+      - /r/: cons-r.md
+      - Dark L: cons-dark-l.md
+      - /v/: cons-v.md
+      - /z/: cons-z.md
+      - /ʃ/ SH: cons-sh.md
+      - /ʒ/: cons-zh.md
+      - /h/: cons-h.md
+      - /tʃ/ CH: cons-ch.md
+      - /ð/ voiced TH: cons-th-voiced.md
+      - /θ/ voiceless TH: cons-th-voiceless.md
+      - /ŋ/ NG: cons-ng.md
+      - /w/: cons-w.md
+  - Reading rules:
+      - Spelling-to-sound rules: spelling-to-sound-rules.md
+      - Unwritten rules: unwritten-rules.md
+      - More spelling rules: more-spelling-rules.md
+      - R and W distortions: r-and-w-distortions.md
+      - Double consonants: double-consonants.md
+      - Silent letters: silent-letters.md
+      - The letter A: letter-a.md
+      - The letter U: letter-u.md
+      - The letters OU: letter-ou.md
+      - Long /ɑː/ families: long-a-families.md
+      - Phoneme-spelling reference: phoneme-spelling-reference.md
+  - Stress and intonation:
+      - Word stress: stress.md
+      - Noun/verb pairs: noun-verb-pairs.md
+      - Connected speech: connected-speech.md
+      - Stress and rhythm: stress-and-rhythm.md
+      - Intonation: intonation.md
+  - Reference and practice:
+      - Minimal pairs: minimal-pairs.md
+      - Homophones: homophones.md
+      - Reference word lists: reference-word-lists.md
+      - British vs American: uk-vs-us-differences.md
+      - Grammar and usage: grammar-usage.md
+      - Study links: study-links.md
