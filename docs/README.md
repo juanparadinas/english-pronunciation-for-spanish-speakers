@@ -113,9 +113,6 @@ and the pronunciation is known without hearing the word.
 - [Grammar and usage](grammar-usage.md) — common Spanish grammar errors.
 - [Study links](study-links.md) — videos and articles grouped by topic.
 
-### Planning
-- [Content plan](PLAN.md) — page map, template, decisions log.
-
 ## Core principle
 
 The biggest error for Spanish speakers is forcing a full vowel into every
