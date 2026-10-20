@@ -39,6 +39,31 @@ Any written vowel reduces to schwa when its syllable is unstressed.
 
 Rule of thumb: find the stressed syllable; most of the rest tend to schwa.
 
+### Which reduced sound? The vowel letter gives a hint
+
+The overriding rule is simple: an unstressed syllable is reduced (to schwa or
+a short /ɪ/ / /ʊ/), never a full Spanish vowel. But the vowel LETTER biases
+which reduced sound you get:
+
+| Unstressed letter | Usual reduced sound | Examples |
+|---|---|---|
+| a | /ə/ | about, banana, woman, around, villa |
+| o | /ə/ | common, method, London, carrot, purpose, memory |
+| u | /ə/ (sometimes /ʊ/) | support, album, succeed, difficult |
+| i | /ɪ/ ~ /ə/ (free variation) | pencil, possible, president, decimal, direct |
+| e | /ɪ/, often /ə/, sometimes /e/ | before, become, remember (/ɪ/); problem, open, taken (/ə/); decade, economics (/e/) |
+
+Notes:
+- a and o are the most reliably schwa.
+- i and u freely vary between the short vowel (/ɪ/, /ʊ/) and schwa; the
+  distance is tiny, so either is fine. i leans /ɪ/; u leans schwa.
+- e is the most variable: usually a short /ɪ/ (before, decide, enough), often
+  schwa (problem, moment, student), occasionally kept as /e/ (secondary-stress
+  or specific words like decade, economics).
+
+This is a tendency, not a law. When unsure, a schwa is always a safe default
+for an unstressed syllable.
+
 ## 4. Angle 2 — where the /ə/ sound appears
 
 Seen (predictable): international, document, thorough, america, alarm, alert,

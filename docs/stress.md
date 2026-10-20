@@ -12,7 +12,9 @@
    sound rules ([syllable rules](spelling-to-sound-rules.md), letter pages).
 3. Reduce every unstressed syllable to a [schwa](vowel-schwa.md) (or a short
    /ɪ/ / /ʊ/ by free variation). Never give an unstressed syllable its full
-   Spanish vowel.
+   Spanish vowel. The vowel letter hints at which reduced sound: a/o/u lean
+   schwa, i leans /ɪ/, e leans /ɪ/ (see
+   [schwa: which reduced sound](vowel-schwa.md#which-reduced-sound-the-vowel-letter-gives-a-hint)).
 4. Apply connected-speech changes if the word is in a phrase
    ([connected speech](connected-speech.md)).
 
