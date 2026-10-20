@@ -1,6 +1,7 @@
 site_name: English Pronunciation for Spanish Speakers
 site_description: A structured, SSBE-focused pronunciation guide for native Spanish speakers.
-copyright: "© 2026 Juan Paradinas. All rights reserved. License TBD."
+site_url: https://juanparadinas.github.io/english-pronunciation-for-spanish-speakers/
+copyright: "© 2026 Juan Paradinas — CC BY 4.0"
 docs_dir: docs
 
 theme:
