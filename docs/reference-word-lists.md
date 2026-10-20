@@ -122,5 +122,5 @@ forms, intonation, accents, R, creators, and more) is in
 ## Related
 
 - [Spelling-to-sound rules](spelling-to-sound-rules.md)
-- [Schwa](schwa.md)
+- [Schwa](vowel-schwa.md)
 - [English overview](README.md)

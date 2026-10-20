@@ -63,7 +63,7 @@ Distorts adjacent vowels heavily.
 
 ## Related
 
-- [Schwa](schwa.md)
+- [Schwa](vowel-schwa.md)
 - [British vs American differences](uk-vs-us-differences.md)
 - [Reference word lists](reference-word-lists.md)
 - [English overview](README.md)
