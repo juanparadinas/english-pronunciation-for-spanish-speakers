@@ -30,4 +30,6 @@ Then open http://127.0.0.1:8000.
 
 ## License
 
-© 2026 Juan Paradinas. All rights reserved. License to be decided.
+© 2026 Juan Paradinas. Licensed under [CC BY 4.0](LICENSE)
+(Creative Commons Attribution 4.0 International). You may share and adapt the
+material, including for commercial use, provided you give appropriate credit.
