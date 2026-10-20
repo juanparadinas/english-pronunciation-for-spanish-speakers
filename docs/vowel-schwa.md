@@ -89,5 +89,6 @@ See [study links](study-links.md): "Schwa", "Schwa drop", and
 
 - [Priority phonemes](priority-phonemes.md)
 - [Long schwa /ɜː/](vowel-long-schwa.md)
+- [Stress and rhythm](stress-and-rhythm.md) — why schwa is so frequent: English stress uses length + vowel reduction, not just pitch.
 - [Connected speech](connected-speech.md)
 - [English overview](README.md)

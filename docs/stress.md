@@ -170,7 +170,7 @@ noun/verb pair videos.
 
 ## Related
 
-- [Stress and rhythm](stress-and-rhythm.md) — stress-timed rhythm at phrase level.
+- [Stress and rhythm](stress-and-rhythm.md) — stress-timed rhythm; the three cues of stress (pitch + loudness + length) and why schwa results.
 - [Schwa](vowel-schwa.md) — what unstressed syllables reduce to.
 - [Unwritten rules](unwritten-rules.md) — the noun/verb pair list.
 - [English overview](README.md)
