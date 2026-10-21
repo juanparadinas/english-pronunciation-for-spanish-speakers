@@ -34,6 +34,7 @@ markdown_extensions:
       permalink: true
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.magiclink  # auto-link bare URLs (e.g. the study-links lists)
 
 # PLAN.md (build-internal) and schwa.md (redirect stub) are intentionally
 # excluded from the nav. They remain in the folder.

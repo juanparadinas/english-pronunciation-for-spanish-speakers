@@ -5,6 +5,15 @@ pronunciation, aimed at native Spanish speakers. Reference accent is SSBE
 (Southern Standard British English, also called RP / BBC / Queen's English),
 with the main differences to General American noted throughout.
 
+## Special thanks
+
+Special thanks to two teachers whose work shaped this project:
+
+- [Marcus Carter](https://www.youtube.com/@marcuscarter) — for his clear,
+  accessible videos on English pronunciation.
+- [Rodrigo Brunori](https://www.englishpronunciationmadrid.com/consonants/consonants/)
+  — for his detailed work on English consonants.
+
 ## Origin story
 
 I started years ago to improve my English, especially my speaking. I realised
