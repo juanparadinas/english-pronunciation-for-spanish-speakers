@@ -1,0 +1,32 @@
+/* YouTube facade layout for the study-links page.
+   lite-youtube-embed 0.3.3 is vendored next to this file. */
+
+.yt-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+/* Material sets .md-typeset figure { width: fit-content }. A caption-less
+   figure then has 0 width and the facade inside collapses. Fill the cell. */
+.md-typeset .yt-grid figure {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
+.md-typeset .yt-grid figcaption {
+  font-size: 0.75rem;
+  margin-top: 0.3rem;
+}
+
+/* Section anchor: the first video of a large section, shown small. */
+.yt-grid.yt-anchor {
+  grid-template-columns: minmax(260px, 320px);
+}
+
+lite-youtube {
+  border-radius: 6px;
+}
