@@ -12,7 +12,8 @@ Special thanks to two teachers whose work shaped this project:
 - [Marcus Carter](https://www.youtube.com/@marcuscarter) — for his clear,
   accessible videos on English pronunciation.
 - [Rodrigo Brunori](https://www.englishpronunciationmadrid.com/consonants/consonants/)
-  — for his detailed work on English consonants.
+  — for his thorough and comprehensive site on English pronunciation and
+  intonation.
 
 ## Origin story
 
