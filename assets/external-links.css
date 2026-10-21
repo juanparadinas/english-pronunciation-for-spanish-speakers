@@ -1,0 +1,18 @@
+/* Marker for links that open in a new tab (see external-links.js). */
+.md-typeset .ext-mark {
+  font-size: 0.8em;
+  margin-left: 0.15em;
+  text-decoration: none;
+  display: inline-block; /* keeps the arrow out of the link underline */
+}
+
+/* Screen-reader-only text. */
+.ext-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
