@@ -36,6 +36,14 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.magiclink  # auto-link bare URLs (e.g. the study-links lists)
 
+# Click-to-load YouTube facades (lite-youtube-embed 0.3.3, vendored in
+# docs/assets/). Shows a thumbnail; the real player loads only on click.
+extra_css:
+  - assets/lite-yt-embed.css
+  - assets/videos.css
+extra_javascript:
+  - assets/lite-yt-embed.js
+
 # PLAN.md (build-internal) and schwa.md (redirect stub) are intentionally
 # excluded from the nav. They remain in the folder.
 nav:

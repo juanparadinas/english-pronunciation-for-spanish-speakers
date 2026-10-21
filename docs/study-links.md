@@ -2,7 +2,8 @@
 
 Curated study links (videos and articles) grouped by topic. Preserved
 verbatim from the personal study notes (`archive/ingles.txt`). Labels are the
-original annotations; untitled entries are listed as bare URLs.
+original annotations. Each section shows its first video; the
+rest are under "More videos". Click a thumbnail to play it in place.
 
 ## Grammar / usage
 
@@ -10,288 +11,517 @@ original annotations; untitled entries are listed as bare URLs.
 
 ## The letter A
 
-- ChatGPT: https://youtu.be/FTp7xo_WefM
-- ChatGPT: https://youtu.be/ToaMEKdTotg
-- short ʌ & long a: https://youtu.be/ADZTy7nEF64
-- The Letter 'A': https://youtu.be/LjrhyKV6ALQ
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="FTp7xo_WefM" playlabel="Play: ChatGPT"></lite-youtube><figcaption>ChatGPT</figcaption></figure>
+</div>
+
+<details class="note">
+<summary>More videos (3)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="ToaMEKdTotg" playlabel="Play: ChatGPT"></lite-youtube><figcaption>ChatGPT</figcaption></figure>
+<figure><lite-youtube videoid="ADZTy7nEF64" playlabel="Play: short ʌ &amp; long a"></lite-youtube><figcaption>short ʌ &amp; long a</figcaption></figure>
+<figure><lite-youtube videoid="LjrhyKV6ALQ" playlabel="Play: The Letter &#x27;A&#x27;"></lite-youtube><figcaption>The Letter &#x27;A&#x27;</figcaption></figure>
+</div>
+</details>
 
 ## Noun/adjective vs verb stress
 
-- https://youtu.be/dIBmMe019S0
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="dIBmMe019S0" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## can / can't
 
-- AccurateEnglish: https://youtu.be/fhRjyNHIB7M
-- Rachel: https://youtu.be/6bszZZlvj4E
 - Youglish: https://youglish.com/pronounce/can%27t/english/us?
-- RealLife: https://youtu.be/7P3ZW226N8A
-- Lucy: https://youtu.be/fzew3PgeCj0
-- BBC: https://youtu.be/hbu6X_TYqMQ
-- RealLife Quiz: https://youtu.be/1Bm6o5QVYrA?si=tq-71wD0p43Raboz
-- Quiz: https://youtu.be/N51eOWwrCeA?si=wtyDkrR8y75m2Nhw
+
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="fhRjyNHIB7M" playlabel="Play: AccurateEnglish"></lite-youtube><figcaption>AccurateEnglish</figcaption></figure>
+</div>
+
+<details class="note">
+<summary>More videos (6)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="6bszZZlvj4E" playlabel="Play: Rachel"></lite-youtube><figcaption>Rachel</figcaption></figure>
+<figure><lite-youtube videoid="7P3ZW226N8A" playlabel="Play: RealLife"></lite-youtube><figcaption>RealLife</figcaption></figure>
+<figure><lite-youtube videoid="fzew3PgeCj0" playlabel="Play: Lucy"></lite-youtube><figcaption>Lucy</figcaption></figure>
+<figure><lite-youtube videoid="hbu6X_TYqMQ" playlabel="Play: BBC"></lite-youtube><figcaption>BBC</figcaption></figure>
+<figure><lite-youtube videoid="1Bm6o5QVYrA" playlabel="Play: RealLife Quiz"></lite-youtube><figcaption>RealLife Quiz</figcaption></figure>
+<figure><lite-youtube videoid="N51eOWwrCeA" playlabel="Play: Quiz"></lite-youtube><figcaption>Quiz</figcaption></figure>
+</div>
+</details>
 
 ## Schwa
 
-- Schwa never stressed: https://youtu.be/wt66Je3o0Qg?si=NlyT2KPg61qOOqCp
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="wt66Je3o0Qg" playlabel="Play: Schwa never stressed"></lite-youtube><figcaption>Schwa never stressed</figcaption></figure>
+</div>
 
 ## Schwa drop
 
-- https://youtu.be/xRxIGDnCG8U
-- https://youtu.be/2GhdP1D4AWg
-- https://youtu.be/SCWEJbAFPso
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="xRxIGDnCG8U" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (2)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="2GhdP1D4AWg" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="SCWEJbAFPso" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Pronunciation (general)
 
-- https://youtu.be/mgGNem_vIEQ
-- R: https://youtu.be/3XRTN5gW4oU
-- Rules of stress: https://www.youtube.com/watch?v=G2ujuSvohJs
-- https://www.youtube.com/watch?v=EgQuYVLQhAs
-- Dark l: https://youtu.be/ZTgYjGXFAkw
 - Dark l: https://www.fluentu.com/blog/english/dark-l-and-light-l/
 - Dark l: https://linguistics.stackexchange.com/questions/44294/the-dark-l-sound-followed-by-a-vowel-sound-during-linking
 - L-vocalization: https://en.wikipedia.org/wiki/L-vocalization
 
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="mgGNem_vIEQ" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (4)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="3XRTN5gW4oU" playlabel="Play: R"></lite-youtube><figcaption>R</figcaption></figure>
+<figure><lite-youtube videoid="G2ujuSvohJs" playlabel="Play: Rules of stress"></lite-youtube><figcaption>Rules of stress</figcaption></figure>
+<figure><lite-youtube videoid="EgQuYVLQhAs" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="ZTgYjGXFAkw" playlabel="Play: Dark l"></lite-youtube><figcaption>Dark l</figcaption></figure>
+</div>
+</details>
+
 ## Connected speech
 
-- https://www.youtube.com/live/oESDXVX1ZPA?feature=share
-- https://youtu.be/p1reZ75Dn8c
-- https://youtu.be/ZZTV0Gwyo_Q
-- https://youtu.be/KJFC6ZgoPKo
-- https://youtu.be/Xu5xQmO371c
-- Marcus (fonemas): https://youtu.be/JuFBtVFbtkA
-- Marcus (vocales): https://www.youtube.com/live/IMN-mvBftQY?feature=share
-- Marcus (plosivas): https://www.youtube.com/live/0oFKI7_PRMM?feature=share
-- Marcus (abecedario): https://youtu.be/5Hh0WC4aDd0
-- Rhythm: https://youtu.be/klsdfseD23s?si=M5E7obeY47C7FUam
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="oESDXVX1ZPA" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (9)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="p1reZ75Dn8c" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="ZZTV0Gwyo_Q" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="KJFC6ZgoPKo" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="Xu5xQmO371c" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="JuFBtVFbtkA" playlabel="Play: Marcus (fonemas)"></lite-youtube><figcaption>Marcus (fonemas)</figcaption></figure>
+<figure><lite-youtube videoid="IMN-mvBftQY" playlabel="Play: Marcus (vocales)"></lite-youtube><figcaption>Marcus (vocales)</figcaption></figure>
+<figure><lite-youtube videoid="0oFKI7_PRMM" playlabel="Play: Marcus (plosivas)"></lite-youtube><figcaption>Marcus (plosivas)</figcaption></figure>
+<figure><lite-youtube videoid="5Hh0WC4aDd0" playlabel="Play: Marcus (abecedario)"></lite-youtube><figcaption>Marcus (abecedario)</figcaption></figure>
+<figure><lite-youtube videoid="klsdfseD23s" playlabel="Play: Rhythm"></lite-youtube><figcaption>Rhythm</figcaption></figure>
+</div>
+</details>
 
 ## Phonological processes
 
-- https://youtu.be/bCy_rMPZATE
-- https://youtu.be/1ZpGRUxjMIk
-- https://youtu.be/YfQueOZfzUc
-- https://youtu.be/Kc6UWyurYGM
-- https://youtu.be/qo4OhJdPUlg
-- https://youtu.be/tS3pIvl_fM0
-- https://youtu.be/z3ZdYEBUT18
-- https://youtu.be/2WM8txqtaNc
-- https://youtu.be/U-xPDHuMhy4
-- https://youtu.be/bkdh6Jz7UZU
-- https://youtu.be/vQqh6aZqsdk
-- https://youtu.be/I7JjtO7-9dM
-- https://youtu.be/llZgmUc7LL4
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="bCy_rMPZATE" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (12)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="1ZpGRUxjMIk" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="YfQueOZfzUc" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="Kc6UWyurYGM" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="qo4OhJdPUlg" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="tS3pIvl_fM0" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="z3ZdYEBUT18" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="2WM8txqtaNc" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="U-xPDHuMhy4" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="bkdh6Jz7UZU" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="vQqh6aZqsdk" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="I7JjtO7-9dM" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="llZgmUc7LL4" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Phonology: -t
 
-- https://youtu.be/_69ATDAomLc
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="_69ATDAomLc" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## Linking
 
-- https://youtu.be/GwOMp1KATTs
-- https://youtu.be/JBugPH9wje0
-- https://youtu.be/Z-xmtUZuzmc
-- https://youtu.be/N7WPLhRJ_Gk
-- https://www.youtube.com/watch?v=VKpHXzrouVE
-- https://www.youtube.com/watch?v=2Oi0NLl5Fdg
-- https://www.youtube.com/watch?v=sJJjoGAJgOg
-- https://www.youtube.com/watch?v=cu-VK3JlgAk
-- https://www.youtube.com/watch?v=ky9dQC9-0vc&t=529s
-- https://www.youtube.com/watch?v=DCJrFM3hdlg
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="GwOMp1KATTs" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (9)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="JBugPH9wje0" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="Z-xmtUZuzmc" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="N7WPLhRJ_Gk" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="VKpHXzrouVE" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="2Oi0NLl5Fdg" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="sJJjoGAJgOg" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="cu-VK3JlgAk" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="ky9dQC9-0vc" params="start=529" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="DCJrFM3hdlg" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Assimilation
 
-- https://youtu.be/lc2eOCVJMuQ
-- https://youtu.be/i_ohrkQmzdQ
-- https://youtu.be/Wiz1YeLMjyA
-- https://youtu.be/3rXlFsd-yUA
-- https://youtu.be/pzze3JfGDoA
-- https://youtu.be/t-8FkAqstTU
-- https://youtu.be/Yrzg7DDo0ao
-- https://youtu.be/H_SPQGXwu50
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="lc2eOCVJMuQ" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (7)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="i_ohrkQmzdQ" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="Wiz1YeLMjyA" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="3rXlFsd-yUA" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="pzze3JfGDoA" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="t-8FkAqstTU" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="Yrzg7DDo0ao" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="H_SPQGXwu50" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Geminates / twinning
 
-- https://youtu.be/N_-ThxB-Uag
-- https://youtu.be/IOfEQjlKH64
-- https://www.youtube.com/watch?v=BI0RTH6sA_k
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="N_-ThxB-Uag" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (2)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="IOfEQjlKH64" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="BI0RTH6sA_k" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Speech
 
-- https://youtu.be/oRTKJ3CcOMM
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="oRTKJ3CcOMM" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## Drop t
 
-- https://youtu.be/c1l4HRaCMdw
-- https://youtu.be/9upLVtyMdsQ
-- https://youtu.be/cnSuZ3gkDDk
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="c1l4HRaCMdw" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (2)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="9upLVtyMdsQ" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="cnSuZ3gkDDk" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Glottal t stop
 
-- https://youtu.be/UqFDTOnXPK0?si=uJESwUvJ0r_-9_1d
-- https://youtu.be/chcjHwWwVxQ
-- https://youtu.be/IgfRJ0SzhdM
-- https://youtu.be/7iIfqstWcX8
-- https://youtu.be/GSzlXjA2SYk
-- https://youtu.be/CQpQj-XszG0
-- https://youtu.be/5dLSIMsC6fk
-- https://youtu.be/1dcaCFOHEYc?si=Bvqne0VTxU6DZhTy
-- Obama example "certain": https://youtu.be/td7Dcsco-WY?t=2353
-- https://youtu.be/GSzlXjA2SYk?si=VCslMHbef1SMlNlj
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="UqFDTOnXPK0" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (9)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="chcjHwWwVxQ" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="IgfRJ0SzhdM" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="7iIfqstWcX8" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="GSzlXjA2SYk" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="CQpQj-XszG0" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="5dLSIMsC6fk" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="1dcaCFOHEYc" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="td7Dcsco-WY" params="start=2353" playlabel="Play: Obama example &quot;certain&quot;"></lite-youtube><figcaption>Obama example &quot;certain&quot;</figcaption></figure>
+<figure><lite-youtube videoid="GSzlXjA2SYk" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Drop d
 
-- https://youtu.be/m-lWwRomisk
-- https://youtu.be/pzze3JfGDoA
-- https://youtu.be/M_tKuYaE620
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="m-lWwRomisk" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (2)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="pzze3JfGDoA" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="M_tKuYaE620" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Stop plosives
 
-- https://youtu.be/vW77q1IGlmI
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="vW77q1IGlmI" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## Weak form
 
-- https://youtu.be/psI7E_J1zPo
-- https://youtu.be/ZNsWDzoAffA
-- https://www.youtube.com/watch?v=sDcvF1a4vCY
-- was: https://youtu.be/psI7E_J1zPo
-- been: https://youtu.be/ZNsWDzoAffA
-- from: https://www.youtube.com/watch?v=sDcvF1a4vCY
-- of and off: https://youtu.be/M7jRoqoWwqg
-- https://youtu.be/qlbGtEg68x4?si=0F3FtEB5-Io8dcX7
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="psI7E_J1zPo" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (7)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="ZNsWDzoAffA" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="sDcvF1a4vCY" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="psI7E_J1zPo" playlabel="Play: was"></lite-youtube><figcaption>was</figcaption></figure>
+<figure><lite-youtube videoid="ZNsWDzoAffA" playlabel="Play: been"></lite-youtube><figcaption>been</figcaption></figure>
+<figure><lite-youtube videoid="sDcvF1a4vCY" playlabel="Play: from"></lite-youtube><figcaption>from</figcaption></figure>
+<figure><lite-youtube videoid="M7jRoqoWwqg" playlabel="Play: of and off"></lite-youtube><figcaption>of and off</figcaption></figure>
+<figure><lite-youtube videoid="qlbGtEg68x4" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Drop h
 
-- https://youtu.be/x6wLCnaHsJU
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="x6wLCnaHsJU" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## American t
 
-- https://youtu.be/X_P3sdvDIMc
-- https://youtu.be/1FDjhKY8HwM
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="X_P3sdvDIMc" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (1)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="1FDjhKY8HwM" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Reductions / contractions
 
-- Exercise: https://youtu.be/OTZV3zHohdc
-- https://www.youtube.com/watch?v=1wvgMMJbz44
-- https://www.youtube.com/watch?v=XCV2Qs6hGxU
-- https://youtu.be/Yg9-FTjfwZc?si=qASeE-JvKLI3Q4pd
-- https://youtu.be/WEG-_Jgaq2M?si=krL948TRZ6B1P3SD
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="OTZV3zHohdc" playlabel="Play: Exercise"></lite-youtube><figcaption>Exercise</figcaption></figure>
+</div>
+
+<details class="note">
+<summary>More videos (4)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="1wvgMMJbz44" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="XCV2Qs6hGxU" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="Yg9-FTjfwZc" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="WEG-_Jgaq2M" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Intonation
 
-- https://youtu.be/RFcucAXXkJ4
-- https://www.youtube.com/watch?v=70JZWxC9bKU
-- https://youtu.be/cwnk0T51gQU
-- https://youtu.be/L7OsaTDetW4
-- https://youtu.be/2YVXkzlXlwo?si=8NTvFGCK6nv3-oY6
-- https://youtu.be/_wuFOUsHp3U?si=AR-Rcms3pq4vNdLE
-- https://youtu.be/UTuKCvK0RIQ?si=AwZnUUHPbMhkriL3
-- https://youtu.be/uCLy9Kx6Xew?si=6OnWmtRIP789kun-
-- https://youtu.be/_kXqD_B8qjM?si=07U_ZfR9W4pIekdm
-- https://youtu.be/2iZRpHA4xII?si=n0zCen0mERG64Wcc
-- https://youtu.be/nmyo3Nzi9L0?si=VI1TzWI5C1gDZLbY
-- https://youtu.be/SRaNj24jP7Y?si=wpA93qKPO-2Y_UtJ
-- https://youtu.be/yXwfl2vpJGg?si=82bUo3Ky-BE-lN3T
-- https://youtu.be/1QR3zLzrqfI?si=D2kUyox4_46wjbM0
-- https://youtu.be/wSj6PTySYLM?si=3bWi1J1-ST9Ybr3s
-- https://youtu.be/0VWvBk1fxuM?si=mQoBpJUlmT-qxtJe
-- https://youtu.be/iQr2Bo4VGbA?si=XQMPURCtWmXdI89E
-- Uptalking: https://youtu.be/z756L_CkakU?si=9MEKfe--sCAK5Sti
 - https://reallifeglobal.com/intonation-the-secret-ingredient-to-great-pronunciation-with-audio/
+
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="RFcucAXXkJ4" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (17)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="70JZWxC9bKU" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="cwnk0T51gQU" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="L7OsaTDetW4" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="2YVXkzlXlwo" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="_wuFOUsHp3U" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="UTuKCvK0RIQ" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="uCLy9Kx6Xew" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="_kXqD_B8qjM" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="2iZRpHA4xII" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="nmyo3Nzi9L0" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="SRaNj24jP7Y" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="yXwfl2vpJGg" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="1QR3zLzrqfI" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="wSj6PTySYLM" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="0VWvBk1fxuM" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="iQr2Bo4VGbA" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="z756L_CkakU" playlabel="Play: Uptalking"></lite-youtube><figcaption>Uptalking</figcaption></figure>
+</div>
+</details>
 
 ## Thought groups
 
-- https://youtu.be/cmOdquDxDpg?si=JLqpk7HxI5k4176D
-- https://youtu.be/R8YoGG55yOM?si=PCAkZjN4GTA0q3E8
-- https://youtu.be/iRaufMqiaoU?si=rn5Ebhzk-n0EJLBj
-- https://youtu.be/r31ByPi06OQ?si=aKnLOYczDDqDxYmJ
-- https://youtu.be/r31ByPi06OQ?si=Qqj4qxxHCxUm0DBB
-- Obama: https://youtu.be/cVW6jBbD5Q8?si=eV5VDCJapu5D7TgT
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="cmOdquDxDpg" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (5)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="R8YoGG55yOM" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="iRaufMqiaoU" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="r31ByPi06OQ" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="r31ByPi06OQ" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="cVW6jBbD5Q8" playlabel="Play: Obama"></lite-youtube><figcaption>Obama</figcaption></figure>
+</div>
+</details>
 
 ## Accents
 
-- https://youtu.be/9LJtRKQCzrg
-- Scouse: https://youtu.be/R_C4PDSfQJA
-- Cockney: https://www.youtube.com/watch?v=7_FtnOTLkSs
-- RP: https://youtu.be/i23-Ali68co?si=4HHCwxvStXvgIYcG
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="9LJtRKQCzrg" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (3)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="R_C4PDSfQJA" playlabel="Play: Scouse"></lite-youtube><figcaption>Scouse</figcaption></figure>
+<figure><lite-youtube videoid="7_FtnOTLkSs" playlabel="Play: Cockney"></lite-youtube><figcaption>Cockney</figcaption></figure>
+<figure><lite-youtube videoid="i23-Ali68co" playlabel="Play: RP"></lite-youtube><figcaption>RP</figcaption></figure>
+</div>
+</details>
 
 ## of and off
 
-- https://youtu.be/M7jRoqoWwqg
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="M7jRoqoWwqg" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## s/z endings
 
-- https://www.youtube.com/watch?v=RUdVa9D_A6k
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="RUdVa9D_A6k" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## /z/
 
-- https://www.youtube.com/watch?v=HGs3iZ5Goag
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="HGs3iZ5Goag" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## /j/ drop (yod)
 
-- https://youtu.be/RRs103ETh2Q?si=LECENg6llLOcMlqk
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="RRs103ETh2Q" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## -ed verb endings
 
-- https://youtu.be/vv7cBMCBUdk
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="vv7cBMCBUdk" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## Unused expressions
 
-- https://www.youtube.com/watch?v=ivAF8X-FK_I
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="ivAF8X-FK_I" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## Opinion
 
-- https://www.youtube.com/watch?v=nkCP3ajrwbU
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="nkCP3ajrwbU" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## azure / presume / leisure
 
-- https://youtu.be/Zewl48XUr7w?t=405
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="Zewl48XUr7w" params="start=405" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## and (drop d)
 
-- https://youtu.be/-4y05j39isY?t=58
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="-4y05j39isY" params="start=58" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## can't (drop t)
 
-- https://youtu.be/Ij1o5zGDCeE?t=128
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="Ij1o5zGDCeE" params="start=128" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## stirred
 
-- https://youtu.be/wa7U9uHl0Zc
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="wa7U9uHl0Zc" playlabel="Play video"></lite-youtube></figure>
+</div>
 
 ## Plosives
 
-- Spitting sketch: https://youtu.be/0ISJS4gSBh0
-- https://youtu.be/yFPbLcUCraQ?si=H3mV2GMOc7VuxABR
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="0ISJS4gSBh0" playlabel="Play: Spitting sketch"></lite-youtube><figcaption>Spitting sketch</figcaption></figure>
+</div>
+
+<details class="note">
+<summary>More videos (1)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="yFPbLcUCraQ" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Consonant clusters
 
-- https://www.youtube.com/watch?v=XUKCXKjyWrk
-- https://youtu.be/pgmvAKq9BRo
-- asked: https://youtu.be/zfBWc0HUId0
-- rule of three: https://youtu.be/gc7KdsdezFI
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="XUKCXKjyWrk" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (3)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="pgmvAKq9BRo" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="zfBWc0HUId0" playlabel="Play: asked"></lite-youtube><figcaption>asked</figcaption></figure>
+<figure><lite-youtube videoid="gc7KdsdezFI" playlabel="Play: rule of three"></lite-youtube><figcaption>rule of three</figcaption></figure>
+</div>
+</details>
 
 ## Text / listening analysis
 
-- Emma (text analysis): https://youtu.be/bn138R8ITwc
-- Marcus (listening): https://youtu.be/U1zLhuIh21Q
-- Marcus (minimal pair quiz): https://youtu.be/iiYe-VCdijU
-- Marcus (listening, glottal stop): https://youtu.be/6c-Yt30JiQU
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="bn138R8ITwc" playlabel="Play: Emma (text analysis)"></lite-youtube><figcaption>Emma (text analysis)</figcaption></figure>
+</div>
+
+<details class="note">
+<summary>More videos (3)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="U1zLhuIh21Q" playlabel="Play: Marcus (listening)"></lite-youtube><figcaption>Marcus (listening)</figcaption></figure>
+<figure><lite-youtube videoid="iiYe-VCdijU" playlabel="Play: Marcus (minimal pair quiz)"></lite-youtube><figcaption>Marcus (minimal pair quiz)</figcaption></figure>
+<figure><lite-youtube videoid="6c-Yt30JiQU" playlabel="Play: Marcus (listening, glottal stop)"></lite-youtube><figcaption>Marcus (listening, glottal stop)</figcaption></figure>
+</div>
+</details>
 
 ## Stress-timed rhythm
 
-- https://youtu.be/Hdee6eaj1pU
-- https://youtu.be/PrAe07KluZY
-- https://youtu.be/nkQ7lwEWeGA
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="Hdee6eaj1pU" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (2)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="PrAe07KluZY" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="nkQ7lwEWeGA" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## R
 
-- https://youtu.be/F2X1pKEHIYw?si=p0OnXDNMa1MraxPd
-- https://www.youtube.com/watch?v=kMAv3B5xMZc
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="F2X1pKEHIYw" playlabel="Play video"></lite-youtube></figure>
+</div>
+
+<details class="note">
+<summary>More videos (1)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="kMAv3B5xMZc" playlabel="Play video"></lite-youtube></figure>
+</div>
+</details>
 
 ## Geoff Lindsey
 
-- vowels: https://youtu.be/gtnlGH055TA?si=LfbM0947XlpxJWXW
-- hard attack: https://youtu.be/KFZZI7HCp2M?si=WU3dlCGW9gL5-aCv
-- vocal fry: https://youtu.be/Q0yL2GezneU?si=PZ9NcNM0Tyozy_ed
+<div class="yt-grid yt-anchor">
+<figure><lite-youtube videoid="gtnlGH055TA" playlabel="Play: vowels"></lite-youtube><figcaption>vowels</figcaption></figure>
+</div>
+
+<details class="note">
+<summary>More videos (2)</summary>
+<div class="yt-grid">
+<figure><lite-youtube videoid="KFZZI7HCp2M" playlabel="Play: hard attack"></lite-youtube><figcaption>hard attack</figcaption></figure>
+<figure><lite-youtube videoid="Q0yL2GezneU" playlabel="Play: vocal fry"></lite-youtube><figcaption>vocal fry</figcaption></figure>
+</div>
+</details>
 
 ## Related
 
