@@ -41,8 +41,10 @@ markdown_extensions:
 extra_css:
   - assets/lite-yt-embed.css
   - assets/videos.css
+  - assets/external-links.css
 extra_javascript:
   - assets/lite-yt-embed.js
+  - assets/external-links.js
 
 # PLAN.md (build-internal) and schwa.md (redirect stub) are intentionally
 # excluded from the nav. They remain in the folder.
