@@ -489,10 +489,11 @@ rest are under "More videos". Click a thumbnail to play it in place.
 </div>
 
 <details class="note">
-<summary>More videos (2)</summary>
+<summary>More videos (3)</summary>
 <div class="yt-grid">
 <figure><lite-youtube videoid="PrAe07KluZY" playlabel="Play video"></lite-youtube></figure>
 <figure><lite-youtube videoid="nkQ7lwEWeGA" playlabel="Play video"></lite-youtube></figure>
+<figure><lite-youtube videoid="kYIY1D6_n9c" playlabel="Play: live class"></lite-youtube><figcaption>live class</figcaption></figure>
 </div>
 </details>
 
