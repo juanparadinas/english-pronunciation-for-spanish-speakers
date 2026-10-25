@@ -56,4 +56,5 @@ sections (including Obama examples and the RealLife intonation article).
 
 - [Stress and rhythm](stress-and-rhythm.md)
 - [Connected speech](connected-speech.md)
+- [What is accent?](what-is-accent.md) — intonation as one layer of the accent package.
 - [English overview](README.md)
