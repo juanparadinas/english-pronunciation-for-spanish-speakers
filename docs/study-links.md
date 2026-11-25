@@ -1,3 +1,11 @@
+---
+title: "Study links"
+summary: "External study resources for English pronunciation."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Study links
 
 Curated study links (videos and articles) grouped by topic. Preserved

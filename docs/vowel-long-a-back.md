@@ -1,3 +1,11 @@
+---
+title: "Vowel: long a /ɑː/ (back a)"
+summary: "One of the top-four priority vowels for Spanish speakers, and the hard \"a\"."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: long a /ɑː/ (back a)
 
 > One of the top-four priority vowels for Spanish speakers, and the hard "a".

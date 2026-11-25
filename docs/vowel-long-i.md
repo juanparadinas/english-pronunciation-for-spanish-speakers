@@ -1,3 +1,11 @@
+---
+title: "Vowel: long i /iː/"
+summary: "The tense, long counterpart of /ɪ/. Spanish speakers produce it fairly well, but must keep it distinct from /ɪ/."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: long i /iː/
 
 > The tense, long counterpart of /ɪ/. Spanish speakers produce it fairly well,

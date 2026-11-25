@@ -1,3 +1,11 @@
+---
+title: "Double consonants"
+summary: "A doubled consonant is NOT pronounced twice."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Double consonants
 
 > A doubled consonant is NOT pronounced twice. It is a spelling signal: the

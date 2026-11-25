@@ -1,3 +1,11 @@
+---
+title: "Vowel: /ʌ/ (the \"hat\" a)"
+summary: "The short, central \"cut\" vowel. Spanish speakers tend to read it as the written letter instead of this sound."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: /ʌ/ (the "hat" a)
 
 > The short, central "cut" vowel. Spanish speakers tend to read it as the

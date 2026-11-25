@@ -1,3 +1,11 @@
+---
+title: "Consonant: /ʒ/"
+summary: "The voiced sibling of /ʃ/. Rare in English, and does not exist in standard Spanish."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /ʒ/
 
 > The voiced sibling of /ʃ/. Rare in English, and does not exist in standard

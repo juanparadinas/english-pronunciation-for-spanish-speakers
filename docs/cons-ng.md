@@ -1,3 +1,11 @@
+---
+title: "Consonant: /ŋ/ (NG)"
+summary: "The sound at the end of \"sing\". It exists in Spanish only before other consonants, not as a word-final sound, and never with a following hard g."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /ŋ/ (NG)
 
 > The sound at the end of "sing". It exists in Spanish only before other

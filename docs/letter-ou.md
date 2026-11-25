@@ -1,3 +1,11 @@
+---
+title: "The letters OU (two angles)"
+summary: "The trap: reading OU as a Spanish \"ou\"/\"u\", so \"country\" = \"coun-tri\" with /u/, or \"enough\" with /u/."
+tags: [english, pronunciation, ssbe, spelling]
+related: [README.md]
+type: study
+---
+
 # The letters OU (two angles)
 
 OU is the most unstable vowel team in English: around 11 different

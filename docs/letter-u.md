@@ -1,3 +1,11 @@
+---
+title: "The letter U (two angles)"
+summary: "The trap: pronouncing u+R as /ʌ/ (as if closed), so \"turn\" = \"tun\"; or keeping the yod where it drops (rude with a yod)."
+tags: [english, pronunciation, ssbe, spelling]
+related: [README.md]
+type: study
+---
+
 # The letter U (two angles)
 
 Like [the letter A](letter-a.md), the written U is highly predictable once you

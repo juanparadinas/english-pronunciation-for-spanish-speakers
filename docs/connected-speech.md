@@ -1,3 +1,11 @@
+---
+title: "Connected speech and phonology"
+summary: "How English words change when joined in speech: linking, weak forms, assimilation and elision."
+tags: [english, pronunciation, ssbe, prosody]
+related: [README.md]
+type: study
+---
+
 # Connected speech and phonology
 
 What happens to a vowel inside a word (unstressed → schwa) also happens at the

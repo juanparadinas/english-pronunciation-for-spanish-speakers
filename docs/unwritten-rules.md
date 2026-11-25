@@ -1,3 +1,11 @@
+---
+title: "Unwritten rules"
+summary: "Pronunciation rules that spelling does not show."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Unwritten rules
 
 The reliable patterns that native children absorb but that are never written in

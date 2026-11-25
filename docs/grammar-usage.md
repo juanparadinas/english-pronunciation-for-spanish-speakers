@@ -1,3 +1,11 @@
+---
+title: "Grammar and usage (common Spanish errors)"
+summary: "Not pronunciation, but the recurring grammar and collocation errors that Spanish speakers carry into English."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Grammar and usage (common Spanish errors)
 
 > Not pronunciation, but the recurring grammar and collocation errors that

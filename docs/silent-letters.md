@@ -1,3 +1,11 @@
+---
+title: "Silent letters"
+summary: "English is full of written letters that are not pronounced."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Silent letters
 
 > English is full of written letters that are not pronounced. They follow

@@ -1,3 +1,11 @@
+---
+title: "Consonant: /ð/ (voiced TH)"
+summary: "The voiced \"th\" in \"this\". Spanish has the sound only as an allophone, so speakers often replace it with /d/."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /ð/ (voiced TH)
 
 > The voiced "th" in "this". Spanish has the sound only as an allophone, so

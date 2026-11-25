@@ -1,3 +1,11 @@
+---
+title: "Phoneme inventory"
+summary: "English has far more sounds than Spanish: around 44 phonemes (24 consonants, 20 vowels/diphthongs) versus roughly 24 in Spanish."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Phoneme inventory
 
 > English has far more sounds than Spanish: around 44 phonemes (24 consonants,

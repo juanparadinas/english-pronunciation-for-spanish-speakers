@@ -1,3 +1,11 @@
+---
+title: "Consonant: /r/"
+summary: "The English R is nothing like the Spanish R."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /r/
 
 > The English R is nothing like the Spanish R. Getting it wrong marks a Spanish

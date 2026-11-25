@@ -1,3 +1,11 @@
+---
+title: "Consonant: /h/"
+summary: "A simple breath sound, but Spanish speakers either drop it or replace it with the harsh Spanish \"j\"."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /h/
 
 > A simple breath sound, but Spanish speakers either drop it or replace it with

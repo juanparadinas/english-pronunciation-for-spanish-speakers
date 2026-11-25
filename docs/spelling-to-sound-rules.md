@@ -1,3 +1,11 @@
+---
+title: "Spelling-to-sound rules"
+summary: "Reliable spelling-to-sound rules for SSBE, used to predict pronunciation from spelling."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Spelling-to-sound rules
 
 English is not phonetic: you cannot always predict pronunciation from spelling.

@@ -1,3 +1,11 @@
+---
+title: "Consonant: /ʃ/ (SH)"
+summary: "Spanish speakers can produce it, but the problem is knowing which spellings hide it, far more than just written \"sh\"."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /ʃ/ (SH)
 
 > Spanish speakers can produce it, but the problem is knowing which spellings

@@ -1,3 +1,11 @@
+---
+title: "Intonation"
+summary: "Intonation, the melody of speech, carries meaning in English."
+tags: [english, pronunciation, ssbe, prosody]
+related: [README.md]
+type: study
+---
+
 # Intonation
 
 > Intonation, the melody of speech, carries meaning in English. The same words

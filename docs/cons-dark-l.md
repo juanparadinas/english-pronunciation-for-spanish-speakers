@@ -1,3 +1,11 @@
+---
+title: "Consonant: dark L /ɫ/"
+summary: "English has two L sounds. The \"dark\" L, at the end of syllables, does not exist in Spanish and distorts the vowels around it."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: dark L /ɫ/
 
 > English has two L sounds. The "dark" L, at the end of syllables, does not

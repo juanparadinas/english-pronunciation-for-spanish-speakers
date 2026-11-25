@@ -1,3 +1,11 @@
+---
+title: "English Pronunciation (SSBE)"
+summary: "Entry point for the SSBE pronunciation project for Spanish speakers: origin, method and full page map."
+tags: [english, pronunciation, ssbe, reference]
+related: []
+type: study
+---
+
 # English Pronunciation (SSBE)
 
 Personal project: a structured method to teach and improve English

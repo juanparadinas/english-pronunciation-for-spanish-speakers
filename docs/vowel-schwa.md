@@ -1,3 +1,11 @@
+---
+title: "Vowel: schwa /ə/"
+summary: "Standard sound-page template. The most important sound in English for a Spanish speaker."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: schwa /ə/
 
 > Standard sound-page template. The most important sound in English for a

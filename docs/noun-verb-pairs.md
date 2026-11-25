@@ -1,3 +1,11 @@
+---
+title: "Noun/verb pairs (same spelling, different pronunciation)"
+summary: "Many English words are spelled identically as a noun/adjective and as a verb but pronounced differently."
+tags: [english, pronunciation, ssbe, prosody]
+related: [README.md]
+type: study
+---
+
 # Noun/verb pairs (same spelling, different pronunciation)
 
 > Many English words are spelled identically as a noun/adjective and as a verb

@@ -1,3 +1,11 @@
+---
+title: "Reference word lists"
+summary: "Reference word lists used by the sound pages and exercises."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Reference word lists
 
 Curated word lists by phoneme, suffix, and pattern, plus minimal pairs and

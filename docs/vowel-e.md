@@ -1,3 +1,11 @@
+---
+title: "Vowel: /e/ (short e)"
+summary: "A short, front mid vowel. Close to Spanish \"e\", so relatively easy; the work is the contrasts with /æ/ and /ɪ/."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: /e/ (short e)
 
 > A short, front mid vowel. Close to Spanish "e", so relatively easy; the work

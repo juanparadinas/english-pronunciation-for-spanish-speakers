@@ -1,3 +1,11 @@
+---
+title: "Consonant: /θ/ (voiceless TH)"
+summary: "The voiceless \"th\" in \"think\". In most of Spain it matches the \"z/c\" sound (zapato), but Latin American speakers replace it with /s/ or /t/."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /θ/ (voiceless TH)
 
 > The voiceless "th" in "think". In most of Spain it matches the "z/c" sound

@@ -1,3 +1,11 @@
+---
+title: "Consonant: /z/"
+summary: "Does not exist in Spanish. Spanish s is always voiceless, so speakers miss the many English /z/ sounds, including most plural and verb endings."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /z/
 
 > Does not exist in Spanish. Spanish s is always voiceless, so speakers miss

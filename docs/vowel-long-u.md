@@ -1,3 +1,11 @@
+---
+title: "Vowel: long u /uː/"
+summary: "A long, tense, rounded, high-back vowel."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: long u /uː/
 
 > A long, tense, rounded, high-back vowel. Often preceded by a yod /j/, which

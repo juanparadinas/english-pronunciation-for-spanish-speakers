@@ -1,3 +1,11 @@
+---
+title: "Vowel: /æ/ (front a)"
+summary: "Not a major problem for Spanish speakers: the Spanish \"a\" is already fairly front, so /æ/ (cat) is close enough."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: /æ/ (front a)
 
 > Not a major problem for Spanish speakers: the Spanish "a" is already fairly

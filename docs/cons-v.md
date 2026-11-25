@@ -1,3 +1,11 @@
+---
+title: "Consonant: /v/"
+summary: "Does not exist in Spanish. Spanish b and v are the same sound, so speakers collapse /b/ and /v/."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /v/
 
 > Does not exist in Spanish. Spanish b and v are the same sound, so speakers

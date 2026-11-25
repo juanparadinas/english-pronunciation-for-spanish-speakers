@@ -1,3 +1,11 @@
+---
+title: "The letter A (two angles)"
+summary: "The letter A read from two angles: letter to sound, and sound to letter."
+tags: [english, pronunciation, ssbe, spelling]
+related: [README.md]
+type: study
+---
+
 # The letter A (two angles)
 
 The key skill is to look at the letter A from both directions: given the

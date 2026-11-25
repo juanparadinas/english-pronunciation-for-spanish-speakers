@@ -1,3 +1,11 @@
+---
+title: "Stress and rhythm"
+summary: "English is stress-timed; Spanish is syllable-timed."
+tags: [english, pronunciation, ssbe, prosody]
+related: [README.md]
+type: study
+---
+
 # Stress and rhythm
 
 > English is stress-timed; Spanish is syllable-timed. This single difference

@@ -1,3 +1,11 @@
+---
+title: "R and W break the vowel rules"
+summary: "Two letters systematically distort the normal spelling-to-sound rules: R and W."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # R and W break the vowel rules
 
 > Two letters systematically distort the normal spelling-to-sound rules: R and

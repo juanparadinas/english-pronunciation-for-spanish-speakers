@@ -1,3 +1,11 @@
+---
+title: "Long /ɑː/ word families (UK TRAP-BATH)"
+summary: "In SSBE, a large set of words spelled with \"a\" take the long back /ɑː/ where American keeps the short front /æ/."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Long /ɑː/ word families (UK TRAP-BATH)
 
 > In SSBE, a large set of words spelled with "a" take the long back /ɑː/ where

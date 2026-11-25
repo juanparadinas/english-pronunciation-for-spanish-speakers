@@ -1,3 +1,11 @@
+---
+title: "Phoneme-spelling reference (SSBE)"
+summary: "An authoritative, exhaustive mapping of every British English phoneme to all the ways it can be spelled, including one-off spellings, silent letters, and the sound alternations that mark grammar."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Phoneme-spelling reference (SSBE)
 
 > An authoritative, exhaustive mapping of every British English phoneme to all

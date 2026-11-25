@@ -1,3 +1,11 @@
+---
+title: "Privacy"
+summary: "Privacy note for the published site: no cookies, GoatCounter analytics."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Privacy
 
 This site does not use cookies and does not collect personal data.

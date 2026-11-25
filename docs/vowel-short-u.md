@@ -1,3 +1,11 @@
+---
+title: "Vowel: short u /ʊ/"
+summary: "A short, lax, rounded, high-back vowel. The closed-syllable exceptions (put, push, bull) and the /uː/ contrast are the traps."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: short u /ʊ/
 
 > A short, lax, rounded, high-back vowel. The closed-syllable exceptions

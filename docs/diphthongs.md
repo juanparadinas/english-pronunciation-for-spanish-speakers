@@ -1,3 +1,11 @@
+---
+title: "Diphthongs (8 sounds)"
+summary: "A diphthong is one vowel that glides into another inside a single syllable."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Diphthongs (8 sounds)
 
 > A diphthong is one vowel that glides into another inside a single syllable.

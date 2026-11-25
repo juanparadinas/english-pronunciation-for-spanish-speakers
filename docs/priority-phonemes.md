@@ -1,3 +1,11 @@
+---
+title: "Priority phonemes for Spanish speakers"
+summary: "The phonemes that matter most for Spanish speakers, ranked by impact on intelligibility."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Priority phonemes for Spanish speakers
 
 Not all phonemes matter equally. These are the highest-leverage ones for a

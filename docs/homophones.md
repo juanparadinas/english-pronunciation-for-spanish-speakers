@@ -1,3 +1,11 @@
+---
+title: "Homophones"
+summary: "Words spelled differently but pronounced the same."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Homophones
 
 > Words spelled differently but pronounced the same. English has many, partly

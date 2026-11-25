@@ -1,3 +1,11 @@
+---
+title: "Vowel: long schwa /ɜː/"
+summary: "The second most important vowel for Spanish speakers."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: long schwa /ɜː/
 
 > The second most important vowel for Spanish speakers. A long, stressed

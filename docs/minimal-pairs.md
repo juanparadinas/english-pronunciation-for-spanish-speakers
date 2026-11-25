@@ -1,3 +1,11 @@
+---
+title: "Minimal pairs"
+summary: "Pairs of words that differ in exactly one phoneme."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # Minimal pairs
 
 > Pairs of words that differ in exactly one phoneme. They are where Spanish

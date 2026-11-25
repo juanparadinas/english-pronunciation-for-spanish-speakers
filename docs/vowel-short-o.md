@@ -1,3 +1,11 @@
+---
+title: "Vowel: short o /ɒ/"
+summary: "A short, rounded, open-back vowel. This is the clearest UK/US vowel difference: American replaces it with a back /ɑ/."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: short o /ɒ/
 
 > A short, rounded, open-back vowel. This is the clearest UK/US vowel

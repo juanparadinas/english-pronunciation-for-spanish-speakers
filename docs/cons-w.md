@@ -1,3 +1,11 @@
+---
+title: "Consonant: /w/"
+summary: "A rounded glide. Spanish has a similar sound, but the b/v/w confusion and the hard-g insertion (huevo -> \"güevo\") carry over as errors."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /w/
 
 > A rounded glide. Spanish has a similar sound, but the b/v/w confusion and the

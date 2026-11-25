@@ -1,3 +1,11 @@
+---
+title: "Consonant: /tʃ/ (CH)"
+summary: "Producible for most Spanish speakers (it exists in Spanish \"ch\"), but the spellings that hide it, and the contrast with /ʃ/, need attention."
+tags: [english, pronunciation, ssbe, consonant]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Consonant: /tʃ/ (CH)
 
 > Producible for most Spanish speakers (it exists in Spanish "ch"), but the

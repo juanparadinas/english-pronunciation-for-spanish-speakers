@@ -1,3 +1,11 @@
+---
+title: "Vowel: short i /ɪ/"
+summary: "One of the top-four vowels for Spanish speakers."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: short i /ɪ/
 
 > One of the top-four vowels for Spanish speakers. The problem is quality, not

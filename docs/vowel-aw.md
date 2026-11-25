@@ -1,3 +1,11 @@
+---
+title: "Vowel: /ɔː/ (the \"aw\" o)"
+summary: "A long, rounded, mid-back vowel. The -aw/-au spellings always give this sound, never the Spanish \"au\"."
+tags: [english, pronunciation, ssbe, vowel]
+related: [README.md, phoneme-inventory.md]
+type: study
+---
+
 # Vowel: /ɔː/ (the "aw" o)
 
 > A long, rounded, mid-back vowel. The -aw/-au spellings always give this

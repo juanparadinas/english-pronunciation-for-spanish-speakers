@@ -1,3 +1,11 @@
+---
+title: "British vs American differences"
+summary: "Main differences between SSBE and General American pronunciation."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # British vs American differences
 
 Reference accent is SSBE. There are 8 main pronunciation differences to

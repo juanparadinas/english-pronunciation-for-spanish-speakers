@@ -1,3 +1,11 @@
+---
+title: "What is \"accent\"?"
+summary: "Accent is not just \"how you pronounce the sounds\" nor just \"the melody\"."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # What is "accent"?
 
 > Accent is not just "how you pronounce the sounds" nor just "the melody". It

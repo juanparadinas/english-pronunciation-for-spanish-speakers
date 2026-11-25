@@ -1,3 +1,11 @@
+---
+title: "Word stress"
+summary: "Stress is the backbone of English pronunciation."
+tags: [english, pronunciation, ssbe, prosody]
+related: [README.md]
+type: study
+---
+
 # Word stress
 
 > Stress is the backbone of English pronunciation. Get the stress right and a

@@ -1,3 +1,11 @@
+---
+title: "More spelling rules (and negative rules)"
+summary: "Additional reliable patterns, plus \"negative rules\" (what a letter never does)."
+tags: [english, pronunciation, ssbe, reference]
+related: [README.md]
+type: study
+---
+
 # More spelling rules (and negative rules)
 
 > Additional reliable patterns, plus "negative rules" (what a letter never
